@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rtbri\\desktop\\Tarea\\Sistema de Gesti\u00F3n de Biblioteca 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF792DAE-E937-45A6-87C5-1F9D2986C765}|Sistema de Gesti\u00F3n de Biblioteca 2.csproj|c:\\users\\rtbri\\desktop\\tarea\\sistema de gesti\u00F3n de biblioteca 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF792DAE-E937-45A6-87C5-1F9D2986C765}|Sistema de Gesti\u00F3n de Biblioteca 2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rtbri\\desktop\\Tarea\\Sistema de Gesti\u00F3n de Biblioteca 2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\rtbri\\desktop\\Tarea\\Sistema de Gesti\u00F3n de Biblioteca 2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAALcBAAAAAAAAAAAswOABAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T02:50:01.619Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

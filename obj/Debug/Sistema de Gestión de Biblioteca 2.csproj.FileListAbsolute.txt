@@ -1,0 +1,7 @@
+C:\Users\rtbri\desktop\Tarea\Sistema de Gestión de Biblioteca 2\bin\Debug\Sistema de Gestión de Biblioteca 2.exe.config
+C:\Users\rtbri\desktop\Tarea\Sistema de Gestión de Biblioteca 2\bin\Debug\Sistema de Gestión de Biblioteca 2.exe
+C:\Users\rtbri\desktop\Tarea\Sistema de Gestión de Biblioteca 2\bin\Debug\Sistema de Gestión de Biblioteca 2.pdb
+C:\Users\rtbri\desktop\Tarea\Sistema de Gestión de Biblioteca 2\obj\Debug\Sistema de Gestión de Biblioteca 2.csproj.AssemblyReference.cache
+C:\Users\rtbri\desktop\Tarea\Sistema de Gestión de Biblioteca 2\obj\Debug\Sistema de Gestión de Biblioteca 2.csproj.CoreCompileInputs.cache
+C:\Users\rtbri\desktop\Tarea\Sistema de Gestión de Biblioteca 2\obj\Debug\Sistema de Gestión de Biblioteca 2.exe
+C:\Users\rtbri\desktop\Tarea\Sistema de Gestión de Biblioteca 2\obj\Debug\Sistema de Gestión de Biblioteca 2.pdb
